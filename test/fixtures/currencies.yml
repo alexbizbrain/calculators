@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [name: 
+  currency_symbol: 
+  max_supply: 
+  slug]: MyString
+
+two:
+  [name: 
+  currency_symbol: 
+  max_supply: 
+  slug]: MyString
